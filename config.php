@@ -64,6 +64,6 @@ $package_4_benefit_4 = 'Benefit 4';
 // Forum nav link //
 ///////////////////
 
-$forums_link = "http://yourwebsite.com/forums"; // Your site then the /forums
+$forums_link = "http://google.com/forums"; // Your site then the /forums
 
 ?>
